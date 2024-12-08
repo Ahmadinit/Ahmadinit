@@ -74,5 +74,6 @@ I'm a Data Scientist with a passion for building scalable data solutions.My jour
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AhmadNaeem&theme=onestar&title=MultiLanguage,Commits,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
