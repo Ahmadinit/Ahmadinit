@@ -27,7 +27,6 @@
 ### 🛠️ My Tech Stack
 
 ---
-
 #### Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
@@ -67,8 +66,8 @@
 
 #### Libraries
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
@@ -79,15 +78,15 @@
 #### Big Data
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hive/hive-original.svg" alt="Hive" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlebigquery/googlebigquery-original.svg" alt="BigQuery" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Apache_hive_logo.svg" alt="Hive" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Google_BigQuery_logo_color.svg" alt="BigQuery" width="40" height="40"/>
 
 ---
 
 #### Automation Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrapy/scrapy-original.svg" alt="Scrapy" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/beautifulsoup/beautifulsoup-original.svg" alt="Beautiful Soup" width="40" height="40"/>
+<img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="40" height="40"/>
+<img src="https://beautiful-soup-4.readthedocs.io/en/latest/_images/bs4-logo.png" alt="Beautiful Soup" width="40" height="40"/>
 
 ---
 
