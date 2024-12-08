@@ -26,7 +26,7 @@ My journey has led me to explore the exciting crossroads of Data Engineering and
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" alt="YAML" width="40" height="40"/>
 
 ---
-
+### 🥇 My Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ahmadinit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
