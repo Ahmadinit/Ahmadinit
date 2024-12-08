@@ -1,10 +1,9 @@
 <h1 align="center" style="font-size: 60px;">👋 Hi, This is <strong>Ahmad Naeem!</strong></h1>
 
-<p align="left">
-Welcome to my GitHub!<br>
-I'm a Data Scientist with a passion for building scalable data solutions.<br>
-My journey has led me to explore the exciting crossroads of Data Engineering and Cloud Computing.
-</p>
+<h4 align="left">
+Welcome to my GitHub!
+I'm a Data Scientist with a passion for building scalable data solutions.My journey has led me to explore the exciting crossroads of Data Engineering and Cloud Computing.
+</h4>
 
 
 
@@ -63,8 +62,6 @@ My journey has led me to explore the exciting crossroads of Data Engineering and
 <img src="https://www.svgrepo.com/show/375551/bigquery.svg" alt="BigQuery" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=AhmadNaeem&theme=onestar&title=MultiLanguage,Commits,Stars)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 #### Automation Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
@@ -73,5 +70,9 @@ My journey has led me to explore the exciting crossroads of Data Engineering and
 
 #### Manifestation
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" alt="YAML" width="40" height="40"/>
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhmadNaeem&theme=onestar&title=MultiLanguage,Commits,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
