@@ -1,9 +1,11 @@
 <h1 align="center" style="font-size: 60px;">👋 Hi, This is <strong>Ahmad Naeem!</strong></h1>
 
-<h3 align="center">
-  Welcome to my GitHub! I'm a Data Scientist with a passion for building scalable data solutions.<br>
-  My journey has led me to explore the exciting crossroads of Data Engineering and Cloud Computing.
-</h3>
+<p align="center">
+Welcome to my GitHub!<br>
+I'm a Data Scientist with a passion for building scalable data solutions.<br>
+My journey has led me to explore the exciting crossroads of Data Engineering and Cloud Computing.
+</p>
+
 
 
 ---
